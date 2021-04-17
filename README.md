@@ -43,8 +43,8 @@ C++ helps you to understand the internal architecture of a computer, how compute
 	- TypeConversion.
 
 	- Operators.
-	
-	 --- 
+
+	 ____ 
 
 - **Introduction to Modern C++**
 

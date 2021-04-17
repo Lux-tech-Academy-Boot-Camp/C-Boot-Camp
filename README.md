@@ -57,14 +57,29 @@ ___
 
 - **Flow Control in C++**
 
+___
+
 - **Introduction to Functions in C++**
+
+___
 
 - **C++ Arrays and String**
 
+
+___
+
 - **Structures in C++**
+
+
+___
 
 - **Object and  Classes in C++**
 
+___
+
 - **Pointers in C++**
+
+
+___
 
 - **Introduction to Inheritance**

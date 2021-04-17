@@ -46,13 +46,17 @@ C++ helps you to understand the internal architecture of a computer, how compute
 
 	 ____ 
 
-- **Introduction to Modern C++**
-	
-	- if statements.
-	- if...else statements.
-	- if...else...if statements.
-	- for loop.
 
+- **Introduction to Modern C++**
+	- for loop.
+	- do...while loop.
+	- if statement.
+	- if...else statement.
+	- Nested if...else
+	- break statement.
+	- continue statement.
+	- switch statement.
+	- goto statement.
 ___
 
 - **Flow Control in C++**

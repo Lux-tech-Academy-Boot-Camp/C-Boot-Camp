@@ -55,6 +55,7 @@ ___
 	- if statement.
 	- if...else statement.
 	- Nested if...else
+	- Ternary Operator
 	- break statement.
 	- continue statement.
 	- switch statement.

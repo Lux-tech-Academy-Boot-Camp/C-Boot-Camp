@@ -26,7 +26,16 @@ After learning C++, it will be much easier to learn other programming languages 
 C++ helps you to understand the internal architecture of a computer, how computer stores and retrieves information.
 
 
-- **Introduction to C++** 
+- **Introduction to C++**
+
+		- Hello World.
+		- Comments.
+		- Variables.
+		- Literals.
+		- Data Types.
+		- Basic Input and Output.
+		- TypeConversion.
+		- Operators. 
 
 - **Introduction to Modern C++**
 

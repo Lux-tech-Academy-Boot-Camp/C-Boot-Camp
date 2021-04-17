@@ -23,7 +23,7 @@ ___
 ### **Why Learn C++?**
 C++ is used to develop games, desktop apps, operating systems, browsers, machine learning, data science and so on because of its performance.
 
-After learning C++, it will be much easier to learn other programming languages like Java, Python, etc.
+After learning C++, it will be much easier to learn other programming languages like Python,JavaScript, etc.
 
 C++ helps you to understand the internal architecture of a computer, how computer stores and retrieves information.
 

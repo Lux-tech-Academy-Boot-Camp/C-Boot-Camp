@@ -6,9 +6,8 @@ C++ is a powerful general-purpose programming language. It can be used to develo
 C++ supports different ways of programming like procedural, object-oriented, functional, and so on. This makes C++ powerful as well as flexible.
 
 Our C++ programming tutorial will guide you to learn C++ programming one step at a time. 
-
-
 ___
+
 ### **About C++ Programming.**
 
 **Multi-paradigm Language** - C++ supports at least seven different styles of programming. Developers can choose any of the styles.
@@ -19,8 +18,10 @@ ___
 
 **Object-oriented** - C++ allows you to divide complex problems into smaller sets by using objects.
 ___
+
+
 ### **Why Learn C++?**
-C++ is used to develop games, desktop apps, operating systems, browsers, and so on because of its performance.
+C++ is used to develop games, desktop apps, operating systems, browsers, machine learning, data science and so on because of its performance.
 
 After learning C++, it will be much easier to learn other programming languages like Java, Python, etc.
 

@@ -28,21 +28,21 @@ C++ helps you to understand the internal architecture of a computer, how compute
 
 - **Introduction to C++.**
 
-		- Hello World.
+	- Hello World.
 
-		- Comments.
+	- Comments.
 
-		- Variables.
+	- Variables.
 
-		- Literals.
+	- Literals.
 
-		- Data Types.
+	- Data Types.
 
-		- Basic Input and Output.
+	- Basic Input and Output.
 
-		- TypeConversion.
+	- TypeConversion.
 
-		- Operators. 
+	- Operators. 
 
 - **Introduction to Modern C++**
 
